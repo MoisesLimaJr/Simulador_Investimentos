@@ -11,7 +11,6 @@ A planilha permite calcular:
 - Calcular aportes mensais e evolução do patrimônio
 - Estimar dividendos mensais - Simular cenários de 2, 5, 10, 20 e 30 anos
 - Distribuição de carteira por perfil (Conservador, Moderado, Agressivo) 
-
 ## 📦 Como Usar 
 1. Baixe a planilha.
 2. Abra no **Microsoft Excel** ou em softwares compatíveis (Google Sheets, LibreOffice Calc).
