@@ -13,7 +13,7 @@ A planilha permite calcular:
 - Distribuição de carteira por perfil (Conservador, Moderado, Agressivo) 
 
 ## 📦 Como Usar 
-1. Baixe a planilha: [Simulador_Investimento.xlsx](Simulador_Investimento%24.xlsx) 
+1. Baixe a planilha.
 2. Abra no **Microsoft Excel** ou em softwares compatíveis (Google Sheets, LibreOffice Calc).
 3. Preencha os campos: - Salário - Valor a investir por mês - Taxa de rendimento mensal - Perfil de investidor (Conservador, Moderado ou Agressivo) 
 4. Veja os cálculos automáticos e acompanhe os resultados.
